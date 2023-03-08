@@ -11,8 +11,7 @@
 Additional description about the project and its features.
 
 ## Live Demo
-
-[Live demo](https://weatherapp666.netlify.app/)
+- comming soon
 
 ## Built With
 
