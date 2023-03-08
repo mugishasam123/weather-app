@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState} from 'react'
 import Search from '../../components/Search/Search'
 import CurrentWeather from '../../components/CurrentWeather/CurrentWeather'
 import Nav from '../../components/Nav/Nav'
